@@ -5,7 +5,6 @@ First you will need to create a project at firebase https://firebase.google.com/
 Then, clone the repository.
 ```bash
 gic clone https://github.com/Henrique-Assme/Crud-next.git
-cd next-crud
 ```
 Here create a file named .env.local and create those 3 enviroment variables
 ```bash
