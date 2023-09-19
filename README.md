@@ -6,7 +6,7 @@ Then, clone the repository.
 ```bash
 gic clone https://github.com/Henrique-Assme/Crud-next.git
 ```
-Here create a file named .env.local and create those 3 enviroment variables
+Here create a file named .env.local and create these 3 enviroment variables
 ```bash
 NEXT_PUBLIC_FIREBASE_API_KEY=
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
